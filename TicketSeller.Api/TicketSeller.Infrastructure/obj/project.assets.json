@@ -378,6 +378,16 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
         }
+      },
+      "TicketSeller.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TicketSeller.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketSeller.Core.dll": {}
+        }
       }
     }
   },
@@ -1000,11 +1010,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "TicketSeller.Core/1.0.0": {
+      "type": "project",
+      "path": "../TicketSeller.Core/TicketSeller.Core.csproj",
+      "msbuildProject": "../TicketSeller.Core/TicketSeller.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.5"
+      "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.5",
+      "TicketSeller.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1037,7 +1053,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+              "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
