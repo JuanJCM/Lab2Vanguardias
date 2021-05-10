@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
       "projectName": "TicketSeller.Api",
-      "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
+      "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
       "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\obj\\",
+      "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1074,11 +1074,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
-              "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
+            "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+              "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
             },
-            "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj"
+            "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj"
             }
           }
         }

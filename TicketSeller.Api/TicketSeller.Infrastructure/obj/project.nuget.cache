@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TyaW4ebW59Gn8pUjr+K/qkctCzUk7CO9sxTzsmDUDqanhxdpfpU1LidycMir6mlSicwRVbHNWv2NjdhzHOZNfw==",
+  "dgSpecHash": "VwV67xt3khEBjYCfiVPoxaLvcDRHk+nwIxXIsSUIYdWH4R8+ALTznbhXZLNN2eVQcqnaoXdhQsXZ3fVO7xoH/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Carranza\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.5\\microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "C:\\Users\\Juan Carranza\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

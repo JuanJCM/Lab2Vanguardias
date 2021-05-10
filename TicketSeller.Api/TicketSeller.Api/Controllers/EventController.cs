@@ -26,7 +26,7 @@ namespace TicketSeller.Api.Controllers
             return this.Ok(result);
         }
 
-        [HttpGet("GetByCategoryId/{id}")]
+        [HttpGet("category/{id}")]
         public async Task<IActionResult> GetByCategoryId(int id)
         {
             var result = this.eventService.GetEventsByCategoryId(id);
@@ -36,7 +36,7 @@ namespace TicketSeller.Api.Controllers
             }
             return this.Ok(result);
         }
-        [HttpGet("GetById/{id}")]
+        [HttpGet("[controller]/{id}")]
         public async Task<IActionResult> GetById(int id)
         {
             var result = this.eventService.GetEventById(id);
