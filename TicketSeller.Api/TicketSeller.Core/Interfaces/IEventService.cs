@@ -8,7 +8,9 @@ namespace TicketSeller.Core.Interfaces
     public interface IEventService
     {
         ServiceResult<IReadOnlyList<Event>> GetEvents();
+        ServiceResult<IReadOnlyList<Event>> GetEventsByCategoryId(int id);
         ServiceResult<Event> GetEventById(int id);
-        ServiceResult<Event> CreateEvent(EventArgs entity);
+        ServiceResult<Event> CreateEvent(Event entity);
+        ServiceResult<Event> DeleteEvent(int id);
     }
 }

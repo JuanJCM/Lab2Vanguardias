@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lPrsz86pjB8jpaIsX4Nqnil6jmWgkQwsuBnmrBWlYc+k9ReyDohZH7j+SQpkV+RGg40vMrCyIklzMzwrniB04g==",
+  "dgSpecHash": "oDHbO19Y6LFsr9TVFYPLHLhQSukKZ81pnWh12HxvsWyDA1t7vexogIYE58vq0W9xj2/BV6x9rpoWDCUNyveVyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
+  "projectFilePath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

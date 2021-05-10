@@ -1,0 +1,18 @@
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.deps.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.AssemblyInfoInputs.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.AssemblyInfo.cs
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.csprojAssemblyReference.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.deps.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\bin\Debug\netcoreapp3.1\TicketSeller.Core.pdb
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.csprojAssemblyReference.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.AssemblyInfoInputs.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.AssemblyInfo.cs
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Core\obj\Debug\netcoreapp3.1\TicketSeller.Core.pdb

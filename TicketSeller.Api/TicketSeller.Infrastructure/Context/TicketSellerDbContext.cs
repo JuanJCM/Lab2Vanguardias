@@ -6,7 +6,7 @@ using TicketSeller.Core.Entities;
 
 namespace TicketSeller.Infrastructure.Context
 {
-    class TicketSellerDbContext : DbContext
+    public class TicketSellerDbContext : DbContext
     {
         public TicketSellerDbContext(DbContextOptions<TicketSellerDbContext> options)
             : base(options)
@@ -44,14 +44,14 @@ namespace TicketSeller.Infrastructure.Context
 
             modelBuilder.Entity<Category>().HasData(new Category
             {
-                Id = -1,
+                Id = -2,
                 Descripcion = "Concierto"
 
             },
             new Category
             { 
                         
-                Id = 0,
+                Id = -1,
                 Descripcion = "Obra de Arte"
 
             }

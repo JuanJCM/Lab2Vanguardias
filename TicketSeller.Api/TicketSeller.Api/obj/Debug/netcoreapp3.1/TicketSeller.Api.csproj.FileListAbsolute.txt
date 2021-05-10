@@ -1,0 +1,126 @@
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.AssemblyInfoInputs.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.AssemblyInfo.cs
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.exe
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.deps.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.runtimeconfig.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.runtimeconfig.dev.json
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Infrastructure.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Core.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Infrastructure.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csprojAssemblyReference.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\staticwebassets\TicketSeller.Api.StaticWebAssets.Manifest.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\staticwebassets\TicketSeller.Api.StaticWebAssets.xml
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicketSeller.Api.styles.css
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csproj.CopyComplete
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.dll
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.pdb
+C:\Users\Joel\Source\Repos\Lab2Vanguardias\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.genruntimeconfig.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.exe
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.deps.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.runtimeconfig.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.runtimeconfig.dev.json
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Api.pdb
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Core.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Infrastructure.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Core.pdb
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\bin\Debug\netcoreapp3.1\TicketSeller.Infrastructure.pdb
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csprojAssemblyReference.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.AssemblyInfoInputs.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.AssemblyInfo.cs
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\staticwebassets\TicketSeller.Api.StaticWebAssets.Manifest.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\staticwebassets\TicketSeller.Api.StaticWebAssets.xml
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicketSeller.Api.styles.css
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.csproj.CopyComplete
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.dll
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.pdb
+C:\Users\Juan Carranza\Desktop\TicketSeller.Api\TicketSeller.Api\obj\Debug\netcoreapp3.1\TicketSeller.Api.genruntimeconfig.cache

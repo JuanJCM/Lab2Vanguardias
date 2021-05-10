@@ -8,5 +8,7 @@ namespace TicketSeller.Core.Entities
     {
         public int Id { get; set; }
         public string Descripcion { get; set; }
+
+        public ICollection<Event> Events { get; set; } = new HashSet<Event>();
     }
 }

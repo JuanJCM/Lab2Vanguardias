@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {}
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
         "projectName": "TicketSeller.Core",
-        "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
+        "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
         "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\obj\\",
+        "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
         "projectName": "TicketSeller.Infrastructure",
-        "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
-                "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
+              "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+                "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
               }
             }
           }

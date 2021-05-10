@@ -5,9 +5,9 @@ using TicketSeller.Core.Entities;
 
 namespace TicketSeller.Core.Interfaces
 {
-    interface ICarritoService
+    public interface ICarritoService
     {
         ServiceResult<Carrito> CreateCarrito(Carrito entity);
-        ServiceResult<Carrito> Pagar(Carrito entity);
+        ServiceResult<IReadOnlyList<Carrito>> Pagar();
     }
 }

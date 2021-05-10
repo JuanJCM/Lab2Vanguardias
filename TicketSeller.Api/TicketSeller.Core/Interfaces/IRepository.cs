@@ -12,8 +12,13 @@ namespace TicketSeller.Core.Interfaces
         TEntity Get(int id);
      
         TEntity Create(TEntity entity);
-        
+
+        TEntity Update(TEntity entity);
+
         IReadOnlyList<TEntity> Filter(Func<TEntity, bool> predicate);
 
+        TEntity Delete(TEntity entity);
+
+        int SaveChanges();
     }
 }

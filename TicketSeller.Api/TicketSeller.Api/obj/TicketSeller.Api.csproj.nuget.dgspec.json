@@ -1,17 +1,90 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj": {}
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj": {
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
         "projectName": "TicketSeller.Api",
-        "projectPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
+        "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\TicketSeller.Api.csproj",
         "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Carranza\\Documents\\GitHub\\Lab2Vanguardias\\TicketSeller.Api\\TicketSeller.Api\\obj\\",
+        "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Carranza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+                "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
+              },
+              "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
+        "projectName": "TicketSeller.Core",
+        "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj",
+        "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,9 +126,73 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
+        "projectName": "TicketSeller.Infrastructure",
+        "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\TicketSeller.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Juan Carranza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Carranza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj": {
+                "projectPath": "C:\\Users\\Juan Carranza\\Desktop\\TicketSeller.Api\\TicketSeller.Core\\TicketSeller.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
