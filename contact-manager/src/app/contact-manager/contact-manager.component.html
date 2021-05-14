@@ -1,0 +1,29 @@
+<div class="card">
+    <div class="card-body">
+      <h2 class="card-title">
+        {{title}}
+      </h2>
+      <div class="card-text">
+         <div class="table">
+             <div class="table-responsive">
+                 <div class="table table-hover">
+                     <thead>
+                         <th>Titulo</th>
+                         <th>Nombre</th>
+                     </thead>
+                     <tbody> 
+                        <tr *ngFor="let contact of items" (click) = "onSelect(contact);">
+                            <td>{{contact.titulo | uppercase }}</td>
+                            <td>{{contact.nombre}}</td>
+                        </tr>
+                     </tbody>
+                 </div>
+             </div>
+         </div>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <app-edit-contact [selectedContactItem] = "selectedContactItem"></app-edit-contact>
+ 

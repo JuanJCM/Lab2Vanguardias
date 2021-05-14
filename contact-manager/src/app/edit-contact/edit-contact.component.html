@@ -1,0 +1,25 @@
+<div *ngIf= "selectedContactItem" class="card">
+    <div class="card-body">
+      <h2 class="card-title">
+        {{selectedContactItem.nombre}}
+      </h2>
+       <div class="card-text">
+         <div class="col-sm-6">
+           <div class="form-group"> 
+             Nombre
+            <input type="text" class = "form-control" [(ngModel)]= "selectedContactItem.nombre">
+             Correo
+            <input type="text" class = "form-control" [(ngModel)]= "selectedContactItem.correo">
+            Telefono
+            <input type="text" class = "form-control" [(ngModel)]= "selectedContactItem.telefono">
+            Titulo
+            <input type="text" class = "form-control" [(ngModel)]= "selectedContactItem.titulo">
+            <br>
+            <button type = "button" class = "btn btn-primary btn-lg" (click) = "onClick(selectedContactItem)" >
+                Eliminar
+            </button>
+           </div>
+         </div>
+       </div>
+    </div>
+  </div> 
